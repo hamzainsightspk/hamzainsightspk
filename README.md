@@ -32,4 +32,4 @@ Check back soon.
 - Location: Lahore, Pakistan
 
 ## Open to
-Junior Data Analyst roles — office or remote — Pakistan or international
+Junior Data Analyst roles — remote — Pakistan or international
