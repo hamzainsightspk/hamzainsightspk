@@ -24,8 +24,7 @@ Data Analyst** — combining my deep mathematical foundation with
 practical tools used in the industry. I document everything publicly
 because I believe learning in the open creates better outcomes.
 
-I am also exploring postgraduate opportunities in **MSc Data Science
-in Europe**, where I intend to deepen my knowledge with rigorous
+I am also exploring postgraduate opportunities in **Master in Data Science**, where I intend to deepen my knowledge with rigorous
 academic and applied training.
 
 ---
