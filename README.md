@@ -24,7 +24,8 @@ Data Analyst** — combining my deep mathematical foundation with
 practical tools used in the industry. I document everything publicly
 because I believe learning in the open creates better outcomes.
 
-I am also exploring postgraduate opportunities in **Master in Data Science**, where I intend to deepen my knowledge with rigorous
+I am also exploring postgraduate opportunities in **MSc Data Science
+in Europe**, where I intend to deepen my knowledge with rigorous
 academic and applied training.
 
 ---
@@ -90,12 +91,18 @@ Phase 6 ░░░░░░░░░░░░░░░░░░░░  Job Ready
 ## Skills
 
 ### Currently Practicing — Excel for Data Analysis
+**Week 1 — Day 4 in progress · Started April 2026**
 
-| Category | Functions Learned |
+| Category | Functions Practiced |
 |---|---|
-| **Text Functions** | UPPER · LOWER · PROPER · CONCATENATE · & operator · LEFT · RIGHT · MID · LEN |
-| **Logical Functions** | IF · Nested IF · AND · OR |
-| **Coming next** | VLOOKUP · XLOOKUP · SUMIF · COUNTIF · Pivot Tables · Charts · Dashboards |
+| **Text Functions — Case** | `UPPER` `LOWER` `PROPER` |
+| **Text Functions — Combine** | `CONCATENATE` `&` operator |
+| **Text Functions — Extract** | `LEFT` `RIGHT` `MID` `LEN` |
+| **Text Functions — Find & Replace** | `FIND` `SEARCH` `SUBSTITUTE` `Ctrl+H` |
+| **Logical Functions** | `IF` `Nested IF` `AND` `OR` |
+| **Date & Time Functions** | `TODAY` `NOW` `DAY` `MONTH` `YEAR` `HOUR` `MINUTE` `SECOND` |
+| **Date Arithmetic** | `Date + Days` `EDATE` `DATE` `YEAR(TODAY())-YEAR(date)` |
+| **Coming next** | `VLOOKUP` `XLOOKUP` `SUMIF` `COUNTIF` `Pivot Tables` `Charts` |
 
 ### Prior Knowledge — Before This Journey
 
@@ -208,7 +215,7 @@ After every study session — three platforms, ten minutes total:
 
 | Platform | Daily Action | Time |
 |---|---|---|
-| **GitHub** | Update README — one new line of progress added | 2 min |
+| **GitHub** | Update README — functions practiced, day completed | 2 min |
 | **Kaggle** | Complete one course lesson or publish a notebook | 15 min |
 | **LinkedIn** | Post weekly update, comment, or share project | 5 min |
 
